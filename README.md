@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaiyadRahman
-- 🎓 I'm studing computer science at the University of Alberta
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning HTML and CSS
+- 🎓 I'm a 3rd year student computer science at the University of Alberta
+- 👀 I’m skilled in FullStack Web Development using the MERN stack
+- 🌱 I’m currently developing my React skills
 - 📫 You can reach me on [Linkedin](www.linkedin.com/in/faiyad-r-1a8706137)
 
 <!---
