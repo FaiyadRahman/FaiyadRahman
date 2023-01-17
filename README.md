@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faiyad</h1>
 <h3 align="center">A Computer Science student at the University of Alberta</h3>
 
+- 🔭 I’m currently working on [Secrets](https://secrets-oeso.onrender.com)
+
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 👨‍💻 Check me out on [faiyadrahman.com](https://faiyadrahman.com)
